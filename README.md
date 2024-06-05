@@ -2,6 +2,8 @@
 
 Interested in Test Automation and Infra 🚀
 
+Fuzzing and Security 😍
+
 _1CC: "One Credit Clear"_
  
  
